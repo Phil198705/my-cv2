@@ -88,6 +88,12 @@ span {
     font-size: 25px;
     line-height: 40px;
 }
+
+.contacts_link:hover{
+    color: #ffc355;
+    transition: 1s;
+    font-size: 28px;
+}
 /* HEADER END */
 
 
@@ -161,6 +167,27 @@ p, li, code {
 .education_text {
     padding: 10px;
 }
+
+.cert{
+    color: #ffc355;
+}
+
+.cert:hover{
+    color: #ffc355;
+    background-color: #2d4767;
+    transition: 1s;
+    padding: 5px;
+}
+
+.my_projects_link{
+    color: black;
+}
+
+.my_projects_link:hover{
+    color: #ffc355;
+    transition: 1s;
+}
+
 
 
 /* FOOTER START */
